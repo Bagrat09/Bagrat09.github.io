@@ -1,0 +1,39 @@
+button{
+    font-size: 15px;
+    font-family: cursive;
+    background-color: rgb(255, 208, 169);
+}
+body{
+    background-color: #ffd900;
+}
+h1{
+    color: orange;
+    font-size: 60px;
+font-family: cursive;
+
+}
+p{
+    color:orange ;
+    font-size: 15px;
+    font-family: cursive;
+}
+ol{
+    color:orange ;
+    font-size: 15px;
+    font-family: cursive;   
+}
+b{
+    color:orange ;
+    font-size: 15px;
+    font-family: cursive;     
+}
+table{
+    color:orange ;
+    font-size: 15px;
+    font-family: cursive;  
+}
+a{
+    color:orange ;
+    font-size: 15px;
+    font-family: cursive;  
+}

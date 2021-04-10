@@ -1,0 +1,13 @@
+body{
+    background-color:  rgb(255, 136, 115);;
+}
+h1{
+ font-family: cursive;
+color: rgba(255, 0, 0, 0.883);
+    font-size: 60px;
+}
+p{
+    font-size: 35px;
+    font-family: cursive;
+    color: rgba(255, 0, 0, 0.883);
+}
